@@ -1,0 +1,7 @@
+I have chosen to capture the following events...
+
+1. Capture ALL the common http status codes - writes a message to the console and writes a log to a status.log file.
+2. Capture ONLY ERRORS - writes a message to the console and writes a log to a error.log file.
+3. Capture ONLY SUCCESSFUL status codes - writes a message to the console and writes a log to a success.log file.
+4. Every time the CONTACT ROUTE is accessed - writes a message to the console and writes a log to a contact.log file.
+
